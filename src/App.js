@@ -22,4 +22,16 @@ function App() {
   );
 }
 
-export default App;
+
+const AppNew = () => {
+  return (
+    1
+  )
+}
+const AppNew2 = () => {
+  return (
+    2
+  )
+}
+export {AppNew, AppNew2}
+export default App
